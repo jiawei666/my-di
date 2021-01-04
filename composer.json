@@ -1,0 +1,13 @@
+{
+    "name": "yuanjw/my-di",
+    "description": "更好的依赖注入容器My-DI",
+    "authors": [
+        {
+            "name": "jiawei666",
+            "email": "957089263@qq.com"
+        }
+    ],
+    "require": {
+        "roave/better-reflection": "^4.12"
+    }
+}
