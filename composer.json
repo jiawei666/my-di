@@ -7,6 +7,11 @@
             "email": "957089263@qq.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "": ""
+        }
+    },
     "require": {
         "roave/better-reflection": "^4.12"
     }
