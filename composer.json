@@ -1,5 +1,5 @@
 {
-    "name": "yuanjw/my-di",
+    "name": "jiawei666/my-di",
     "description": "更好的依赖注入容器My-DI",
     "authors": [
         {
@@ -9,10 +9,19 @@
     ],
     "autoload": {
         "psr-4": {
-            "": ""
+            "MyDI\\": "src",
+            "MyDI\\Test\\": "test"
         }
     },
     "require": {
-        "roave/better-reflection": "^4.12"
+        "php": ">=7.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-main": "0.0.1.x-dev"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6"
     }
 }
