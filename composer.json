@@ -1,10 +1,10 @@
 {
     "name": "jiawei666/my-di",
-    "description": "更好的依赖注入容器My-DI",
+    "description": "The Better `PHP` DI Container",
     "authors": [
         {
             "name": "jiawei666",
-            "email": "957089263@qq.com"
+            "email": "beconfident666@gmail.com"
         }
     ],
     "autoload": {
